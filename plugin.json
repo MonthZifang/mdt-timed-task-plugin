@@ -1,0 +1,7 @@
+{
+  "name": "timed-task-plugin",
+  "author": "monthzifang",
+  "main": "awa.timed.TimedTaskPlugin",
+  "description": "执行定时服务器任务，例如启动后自动开服。",
+  "version": "1.0.0"
+}
