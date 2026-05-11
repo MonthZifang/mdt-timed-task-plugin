@@ -22,7 +22,8 @@ config/mods/config/timed-task-plugin/config.json
 
 ## License
 
-- Licensed under `PolyForm Noncommercial 1.0.0`.
-- Redistribution must retain the original source notice:
+- Licensed under `GPL-3.0`.
+- Full GPL text is provided in `COPYING`.
+- Original author attribution and source notice must be preserved:
   `https://github.com/MonthZifang/mdt-timed-task-plugin`
-- Full license text is in `LICENSE.md`.
+- See `NOTICE` and `LICENSE.md` for attribution details.
